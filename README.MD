@@ -50,9 +50,8 @@ This project explores the implementation of Role-Based Access Control (RBAC) in 
 ## Project Structure
 
 - `data/`: Contains the dataset used for training and evaluation.
-- `scripts/`: Contains scripts for data preprocessing, model training, and evaluation.
 - `results/`: Contains trained models and evaluation metrics.
-
+- `/` : Contains primary ipynotebook 
 ## Contributing
 
 Contributions are welcome! Please follow the standard GitHub workflow for contributions: fork the repository, make your changes, and create a pull request.
