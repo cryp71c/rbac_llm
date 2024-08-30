@@ -1,4 +1,4 @@
-IdentityReference,AccessControlType,FileSystemRights,IsInherited
+Username,AccessControlType,FileSystemRights,IsInherited
 dratcliffe0,Allow,Read,False
 vmundle1,Allow,ExecuteFile,False
 kjorczyk2,Deny,FullControl,False
